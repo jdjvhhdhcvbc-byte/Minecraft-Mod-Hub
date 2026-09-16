@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "minecraft-mod-hub",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-16",
+  "secrets": {
+    "required": [
+      "GITHUB_TOKEN",
+      "ADMIN_KEY"
+    ]
+  }
+}
