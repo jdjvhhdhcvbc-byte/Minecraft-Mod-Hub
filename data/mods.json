@@ -1,5 +1,21 @@
 {
   "version": 1,
   "updatedAt": "2026-09-16T00:00:00.000Z",
-  "mods": []
+  "mods": [
+    {
+      "id": "mob-health-pro",
+      "name": "Mob Health Pro",
+      "description": "يعرض صحة الكائنات التي تنظر إليها داخل Minecraft Bedrock.",
+      "version": "1.0.0",
+      "author": "Minecraft Mod Hub",
+      "category": "Gameplay",
+      "iconUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/jdjvhhdhcvbc-byte/Minecraft-Mod-Hub/main/mods/MobHealthPro.mcaddon",
+      "filePath": "mods/MobHealthPro.mcaddon",
+      "published": true,
+      "featured": true,
+      "createdAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    }
+  ]
 }
